@@ -5,6 +5,6 @@ body {
     background-color: #333;
 }
 
-.hero-text {
-    font-size: 80em;
+h1.hero-text {
+    font-size: 80rem;
 }
